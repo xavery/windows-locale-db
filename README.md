@@ -4,4 +4,4 @@ This is just a simple tool to dump certain properties of Windows' locale/region 
 
 The main reason behind this was to allow easily looking up which setting in the mystical "Language for programs without Unicode support" dialog in the Region settings in the Control Panel corresponds to which ANSI/OEM/MAC code pages.
 
-The output seen here was generated on a machine running Windows 10 20H2. Other versions can be added if need be.
+The output seen [here](https://github.com/xavery/windows-locale-db/releases/download/v1.0/output.html) was generated on a machine running Windows 10 20H2. Other versions can be added if need be.
